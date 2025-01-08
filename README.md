@@ -21,3 +21,6 @@ To run this project, you need a web browser (e.g., Chrome, Firefox, Edge).
 
    ```bash
    git clone https://github.com/your-username/rock-paper-scissors-game.git
+
+2. Navigate to 
+   cd rock-paper-scissors-game
